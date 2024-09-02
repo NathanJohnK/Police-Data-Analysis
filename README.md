@@ -1,5 +1,5 @@
 # Police-Data-Analysis
-Project uses Python packages including Pandas, Seaborn, Matlibplot 
+Project uses Python packages including Pandas, Seaborn, Matlibplot, TensorFlow and Keras
 
 Using data from a 2019 dataset of police crime data (https://data.police.uk/)
 
